@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "674937847674",
+    "firebase_url": "https://fir-gamedna.firebaseio.com",
+    "project_id": "fir-gamedna",
+    "storage_bucket": "fir-gamedna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674937847674:android:f9b6919dfe28be01",
+        "android_client_info": {
+          "package_name": "com.gamedna.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674937847674-09qbpr9f8ui0e1530c7gvkujce09g17c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGU2GciSDVvNsLgOy_fBajInaPfshxlQw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
