@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "674937847674-m6jr4svv5gh266gdgbti7dq4qdru0nb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamedna.firebase",
+            "certificate_hash": "f1a4b1bf864a2c663791662a9fb9992d10cd3b99"
+          }
+        },
+        {
           "client_id": "674937847674-09qbpr9f8ui0e1530c7gvkujce09g17c.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,20 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674937847674-09qbpr9f8ui0e1530c7gvkujce09g17c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "674937847674-eutmlog6cknkd5rbiqj2v2son6qt7cnt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gamedna.firebase"
+              }
+            }
+          ]
         },
         "ads_service": {
           "status": 2
